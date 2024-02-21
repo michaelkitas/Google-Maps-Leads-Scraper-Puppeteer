@@ -1,5 +1,3 @@
-Sure, I'll create a template for a README.md file based on your script. This is a generic template, so feel free to customize it according to your project's specifics:
-
 ```markdown
 # Google Maps Scraper
 
