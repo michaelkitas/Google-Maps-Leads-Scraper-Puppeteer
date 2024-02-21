@@ -1,4 +1,3 @@
-```markdown
 # Google Maps Scraper
 
 This project is a Node.js application that utilizes Puppeteer with Stealth Plugin to scrape data from Google Maps based on a specific search keyword. The data includes titles, links, websites, ratings, reviews, and phone numbers of the listed entities.
@@ -72,4 +71,3 @@ Contributions to the project are welcome! Please feel free to fork the repositor
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-```
