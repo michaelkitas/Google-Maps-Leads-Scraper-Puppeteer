@@ -67,7 +67,3 @@ This script is for educational purposes only. Scraping data from websites may be
 ## Contributing
 
 Contributions to the project are welcome! Please feel free to fork the repository, make changes, and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
